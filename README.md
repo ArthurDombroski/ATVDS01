@@ -14,7 +14,7 @@ Este programa foi desenvolvida com o objetivo de facilitar o gerenciamento de um
 
 ## 📁 Tecnologias Utilizadas
 
-**Linguagem Utiliazda** JAVA
+**Linguagem Utilizada** JAVA
 **Bibliotecas Inseridas** java.util.Scanner;
 **Bibliotecas Inseridas** java.util.ArrayList;
 
@@ -43,6 +43,7 @@ O código está organizado em dois arquivos:
                     -Excluir um produto.
                     -Listar todos os produtos cadastrados.
                     -Sair.
+
 
 
 
